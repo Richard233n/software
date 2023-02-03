@@ -1,0 +1,12 @@
+{
+  "logging": false,
+  "enabled": true,
+  "auto_load": false,
+  "targets": ["theHunterCotW_F.exe"],
+  "modules": [
+    {
+      "path": "Lyptus64.dll",
+      "required": true
+    }
+  ]
+}
