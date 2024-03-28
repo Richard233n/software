@@ -1,31 +1,102 @@
+Wednesday, 10 May 2023: Version 1.4.1.1023
+	fixed a security issue with the HTTP server.
+	fixed an issue with empty EFU items.
+
+Monday, 10 October 2022: Version 1.4.1.1022
+	fixed a crash when loading a preview failed.
+
+Monday, 3 October 2022: Version 1.4.1.1021
+	fixed a security issue with using an insecure http connection to check for updates.
+	fixed an issue with preventing devices from being safely removed.
+
+Thursday, 8 September 2022: Version 1.4.1.1020
+	updated localization.
+	fixed a security issue with using an insecure http connection to open the download page.
+
+Wednesday, 17 August 2022: Version 1.4.1.1018
+	fixed an issue with the MSI installer and removing previous versions.
+
+Friday, 20 May 2022: Version 1.4.1.1017
+	updated localization.
+	fixed an issue with incrementing search history count when opening a bookmark.
+
+Friday, 17 December 2021: Version 1.4.1.1015
+	fixed an encoding issue with translations.
+
+Thursday, 16 December 2021: Version 1.4.1.1014
+	updated installer to protect against DLL hijacking.
+	updated installer to support ASLR.
+	fixed an issue with the ETP client requesting the wrong number of results.
+	fixed an issue with hotkey_user_notification_state.
+	added -rescan-all command line option.
+
+Thursday, 3 June 2021: Version 1.4.1.1009
+	fixed an issue with detecting NTFS volumes.
+
+Monday, 25 January 2021: Version 1.4.1.1005
+	fixed a security issue with loading urlmon.dll and imm32.dll.
+	fixed a 4-byte utf8 comparison issue.
+	fixed an issue with connecting to the Everything Service from some devices (eg: a ram drive).
+	fixed an issue with focus search on activate.
+	fixed an issue with excluding filenames with 4-byte UTF-8 characters.
+	fixed an issue with -focus-result command line options.
+	fixed an issue with \\.\c: service access
+	fixed an issue with db corruption from duplicated filenames.
+	fixed a corrupt db issue when re-scanning duplicated files.
+	fixed an issue with Ctrl + Tab.
+	fixed issues with starting a rename while there was a mouse capture.
+	fixed issues with the hide_on_close setting.
+	fixed an issue with processing command line options from multiple instances.
+	fixed an issue with copying results to the clipboard.
+	fixed an issue with using the wrong column index in LVM_GETCOLUMN.
+	fixed an issue with the es: url protocol.
+	fixed an issue with Everything holding onto volume handles after RegisterDeviceNotification fails.
+	fixed an issue with treating unmounted volumes as NTFS.
+	fixed another crash with unaligned memory access and some USB disk drivers.
+	fixed an issue when renaming a file or folder.
+	fixed a crash with unaligned memory access and some USB disk drivers.
+	fixed an issue with Everything not showing as an active window correctly.
+	fixed an issue with Windows 10 not giving Everything focus
+	fixed an issue with scheduled folder updates never occuring for network drives when waking from sleep.
+	fixed an issue when permanently deleting folders with really long filenames.
+	fixed an issue with gathering icons for files with paths longer than 260 characters.
+	fixed an issue with IPC query returning the incorrect total items.
+	fixed an issue with hidden windows staying hidden forever.
+	fixed an issue with rendering negative visible result items.
+	fixed an issue with saving column positions and widths.
+	fixed an issue with showing suggestions above the search box.
+	fixed an issue with context menus ignoring base keys.
+	fixed an issue with Everything resetting the sort after rebuilding the database.
+	fixed an issue with accessing offline volumes.
+	fixed an issue with comparing dc: to dm:
+	fixed an issue with attrib:d
+	fixed an issue with the ETP client skipping space prefixes in filenames.
+	added autofocus to the HTTP server search box.
+	added check to see if volumes are mounted before accessing.
+	added Lite version (which removes ETP/FTP/HTTP Servers and removes IPC)
+	added <meta name=\"robots\" content=\"noindex, nofollow\"> to http server
+	access denied dialog will now prompt to install the Everything Service.
+	start menu shortcut and Desktop shortcut now installed as "Everything"
+	compiled with /DYNAMICBASE
+	compiled with /NXCOMPAT
+	Installer now saves settings.
+	The installer now installs Start menu shortcuts and the Desktop shortcut for all users.
+	
 Friday, 18 February 2019: Version 1.4.1.935
 	fixed an issue with really long filenames
-    fixed an issue when adding or removing an "include only" exclude.
-    fixed an issue with missing changes to excluded files.
-	
-Friday, 26 January 2019: Version 1.4.1.932
+	fixed an issue when adding or removing an "include only" exclude.
+	fixed an issue with missing changes to excluded files.
 	fixed a crash when gathering NTFS file information
 	fixed an issue with updating folder information
-
-Friday, 11 January 2019: Version 1.4.1.928
 	fixed a crash with ntdll.dll
 	fixed a crash when renaming a folder with excluded subfolders
 	fixed an issue with calculating folder children counts when using folder excludes
-
-Friday, 21 December 2018: Version 1.4.1.924
-	improved thread yielding
 	fixed an issue with Everything detecting renamed files
 	fixed an issue when restarting Everything would restart as administrator
 	fixed an icon overlay display issue
 	fixed an issue with detecting renamed files on ReFS volumes
 	fixed an issue with deleting or renaming ReFS folders
 	fixed an issue with loading shell extensions
-
-Friday, 9 February 2018: Version 1.4.1.895
-	added .jpeg extension to the image information search functions
-	added support for cluster sizes larger than 64k
-	added preview_context ini setting
-	updated localization
 	fixed a crash when clearing search history
 	fixed a security issue when running a FTP server
 	fixed an issue preventing Everything from closing when pressing ESC
@@ -36,6 +107,10 @@ Friday, 9 February 2018: Version 1.4.1.895
 	fixed a memory alignment issue
 	fixed database corruption when renaming a folder when folder size indexing is enabled or when there is a folder exclude
 	fixed an issue with circular NTFS/ReFS folder parents
+	improved thread yielding
+	added .jpeg extension to the image information search functions
+	added support for cluster sizes larger than 64k
+	added preview_context ini setting
 
 Wednesday, 7 June 2017: Version 1.4.1.877
 	added option to index size, dates and attributes
