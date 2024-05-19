@@ -1,8 +1,8 @@
 REGEDIT4
 
 [HKEY_CURRENT_USER\Software\Gihosoft\TubeGet]
-"LastCheckDate"="2024.04.05"
-"ckfirstCheckUpdate"="04-05-2024"
+"LastCheckDate"="2024.05.20"
+"ckfirstCheckUpdate"="05-20-2024"
 "Proxyenabled"="1"
 "port"="7890"
 "server"="127.0.0.1"
@@ -28,9 +28,9 @@ REGEDIT4
 "AutoDL_Quatily"="Original"
 "DownloadSpeed"="0"
 "DownloadTempFolder"="F:/GithubSave/software/GihosoftTubeGet-9.3.10/Temp"
-"DefaultOutputFolder"="E:/Youtube视频保存位置"
+"DefaultOutputFolder"="E:/Youtube视频保存位置/现代 React 聊天应用程序完整课程"
 "Convert_outFolder"="F:/GithubSave/software/GihosoftTubeGet-9.3.10/Convert"
-"Reset_DebugLogs"="03-25-2024"
+"Reset_DebugLogs"="05-18-2024"
 "License_Fdate"="02-21-2024"
 "License_Cdate"="02-21-2024"
 "Unknown41"="F6E1FCBB6B1A05B1056A09410E6910FA"
