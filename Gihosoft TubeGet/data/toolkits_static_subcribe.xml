@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PRODUCTINFO>
+ 		<!-- 软件公司 及 软件名，需要与软件配合使用，用于读取 注册表 信息，一般由开发人员指定 -->
+ 		<PRODUCTINFO_COMPANY>Gihosoft</PRODUCTINFO_COMPANY>
+ 		<PRODUCTINFO_NAME>Subscribe</PRODUCTINFO_NAME>
+ 		
+ 		<!-- 软件显示的标题，Title为默认 ，中文使用 Title-ZH  -->
+ 		<Title>Subscribe</Title>
+ 		<Title-ZH>订阅</Title-ZH>
+ 		
+ 		<!-- 软件描述，Desc为默认 ，中文使用 Desc-ZH  -->
+ 		<Desc>Subscribe to YouTube channels and lists</Desc>
+ 		<Desc-ZH>订阅Youtube频道和列表</Desc-ZH>
+ 		
+ 		
+ 		<!-- 软件版本信息  -->
+ 		<Version>1.0.0</Version>
+ 		<!-- 软件是否免费  -->
+ 		<Free>False</Free>
+ 		
+ 		<!-- 软件可执行文件名，此参数可以不设置， 注意：不是安装包的名称， 而是安装后，双击打开运行文件 的名称   -->
+ 		<Exec_Name></Exec_Name>
+ 		<!-- 安装包的UUID 用于兼容老版本程序 的启动 -->
+ 		<Installer_UUID></Installer_UUID>
+ 		
+ 		<!-- 软件安装包下载地址   -->
+ 		<DownloadURL1></DownloadURL1>
+ 		<DownloadURL2></DownloadURL2>
+		<DownloadURL3></DownloadURL3>
+ 		
+ 		<!-- 软件安装包的md5, 用于验证下载的安装包是否正确   -->
+ 		<FileMD5></FileMD5>
+ 		
+ 		<!-- 软件帮助链接页   -->
+ 		<HelpLink></HelpLink>
+ 		
+ 		<!-- 软件的ICON，若配制了Icon_Data, 则此Icon_URL项可有可无 -->
+ 		<Icon_URL></Icon_URL>   
+ 		<Icon_Data>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABHNCSVQICAgIfAhkiAAABHxJREFUeF7tnFuITWEUx/97f+ecmUzJJXdCYmQmym0owkRKyrjUPEiRB4nhkZdJvBgkQkQ8KJKShBeXTInE5MFlLkl5GTNFIbfhnLPP8e0zJpfhzP526+y198zadZ7m22t96/f7LmefPXtbWX1ADjYClghgY59LLAJ4+YsAZv4iQARwE2DOL3uACGAmwJxeZoAIYCbAnF5mgAhgJsCcXmaACGAmwJxeZoAIYCbAnF5mgAhgJsCcXmaACPBOIPvmITL6k++wh1bA0p+oHJGaAc7zI3Aaj+Vlq8q2QpVviwr/aN2QEQHM40oEiAByArIHkCM1CygCzHiRtw6/gNRnZNrqkWm9gUz7XcD5lh+CKoY9YgHsMUthj1wExErIoVEGDK8ADdppPgWn5YyG3uGvZg1fTdkENWkDoIr8xSjwWaEUkHl9C+mGWuD7O5ryi4cgXlEHa/h8mniEUUInwGk+CefpQcISu0JZUDP3QE2oLkBs/yFDJSD9eBcyLy/4r8bDmapsi75S3u6hZTBNQiPAaToB59mhQKpWs/dCjV8dSK6ekoRCgPsNJ32/pqe+kv49vvAsrGFzSWP6CcYuIJvuQOr6Qr3hvvfTf//nlIxGfNktWLbyH4PgTHYBzrPDcJqOE5RiHiI2vRb2xHXmJxKewStAj/rkFcbf7osGIlGV//4CIet/hmIV4LSchvNkf6FrzBs/NucA7LEr2PrAKiB5bQHwtZ2teDexNWQW4pXn2frAJiD7vhGpmyvZCv89caLqAVA0mKUvbAIyL88j/Xg3S9F/J43NP9n5wx3DwSYg/WgnMq8uM5TcPSXnfWQ2AakbK5D90BwKAfaoxYjN4/kqzCYgDBtwl31r0FTEl1xiGQx8Ai7PAFKfWIrulrRkFBLL61n6wifgYqkuOCSvqdB30RJrnvY1AZNYCv5f0kT1C5b+MM4AEZC7EOR6W0ryoggQAb8tOrIEsazAv5KKABEQLAHZAzp5yyb8c9zJEhTsBOyWTQSIgGAJyB4ge8AfI06WoGAnoOwBsgTJEtR3lyCn8Sic50eZF50/06vyGqiyYP8/leVCzH3ixXmyL1Twuzqjpu2Amrwx0L4FeiUcZvhcEgITEAX4HBICERAl+EFLKLiAKMIPUkLBBYTt+77pDlvoK2QR0IMREWA6ZInbR14AMY9eF67gS1CvI0ZckAggBmoaLhIC3Jf1peq9P83I/diRiYRICMCXViSvV3quyx63ErGKcP7e9HcR0RCge526sxbZtw2eJMRm18Eev8pTW+5GkRHgPk3jSoB+gVO+wxowGfGlV7m5es4fGQFuRbm94N7m/0rIwa88B8T7ewbA3TBSAnKwUh/1zRz9AtfW2/oZ47ZOfv1G6refrIIqXR8p+G7XoyeAe8gS5xcBxEBNw4kAU2LE7UUAMVDTcCLAlBhxexFADNQ0nAgwJUbcXgQQAzUNJwJMiRG3FwHEQE3DiQBTYsTtRQAxUNNwIsCUGHF7EUAM1DScCDAlRtxeBBADNQ0nAkyJEbcXAcRATcP9AK/2qP/Nyyq8AAAAAElFTkSuQmCC</Icon_Data>
+ 		
+
+ </PRODUCTINFO>

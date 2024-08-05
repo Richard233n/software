@@ -1,0 +1,4625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemProtoSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>ItemProtoSet</name>
+  <hideFlags>None</hideFlags>
+  <TableName>Item</TableName>
+  <dataArray>
+    <ItemProto>
+      <Name>铁矿</Name>
+      <ID>1001</ID>
+      <SID />
+      <name>铁矿</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>铁矿脉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/iron-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1101</GridIndex>
+      <UnlockKey>-1</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I铁矿</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>铜矿</Name>
+      <ID>1002</ID>
+      <SID />
+      <name>铜矿</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>铜矿脉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/copper-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1102</GridIndex>
+      <UnlockKey>-1</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I铜矿</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>硅石</Name>
+      <ID>1003</ID>
+      <SID />
+      <name>硅石</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>硅矿脉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/silicium-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1105</GridIndex>
+      <UnlockKey>6001</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I硅石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>钛石</Name>
+      <ID>1004</ID>
+      <SID />
+      <name>钛石</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>钛矿脉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/titanium-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1106</GridIndex>
+      <UnlockKey>6002</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I钛石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>石矿</Name>
+      <ID>1005</ID>
+      <SID />
+      <name>石矿</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>石矿脉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/stone-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1103</GridIndex>
+      <UnlockKey>-1</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I石矿</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>煤矿</Name>
+      <ID>1006</ID>
+      <SID />
+      <name>煤矿</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>煤矿脉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/coal-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>2700000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1104</GridIndex>
+      <UnlockKey>-1</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I煤矿</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>木材</Name>
+      <ID>1030</ID>
+      <SID />
+      <name>木材</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>树木</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/wood</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>1500000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>-0.1</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1612</GridIndex>
+      <UnlockKey>-1</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I木材</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>植物燃料</Name>
+      <ID>1031</ID>
+      <SID />
+      <name>植物燃料</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>植物</MiningFrom>
+      <ProduceFrom />
+      <StackSize>500</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/plant-fuel</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>500000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>-0.3</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1712</GridIndex>
+      <UnlockKey>-1</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I植物燃料</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>可燃冰</Name>
+      <ID>1011</ID>
+      <SID />
+      <name>可燃冰</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>可燃冰矿（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/gas-hydrate</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>4800000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0.4</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1307</GridIndex>
+      <UnlockKey>1120</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I可燃冰</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>金伯利矿石</Name>
+      <ID>1012</ID>
+      <SID />
+      <name>金伯利矿石</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>金伯利矿（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/diamond-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1112</GridIndex>
+      <UnlockKey>1112</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I金伯利矿石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>分形硅石</Name>
+      <ID>1013</ID>
+      <SID />
+      <name>分形硅石</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>分形硅矿（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fractal-silica</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1212</GridIndex>
+      <UnlockKey>1105</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I分形硅石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>光栅石</Name>
+      <ID>1014</ID>
+      <SID />
+      <name>光栅石</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>光栅石矿（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/grating-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1312</GridIndex>
+      <UnlockKey>6002</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I光栅石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>刺笋结晶</Name>
+      <ID>1015</ID>
+      <SID />
+      <name>刺笋结晶</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>刺笋矿脉（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/bamboo-crystal</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1412</GridIndex>
+      <UnlockKey>6002</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I刺笋结晶</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>单极磁石</Name>
+      <ID>1016</ID>
+      <SID />
+      <name>单极磁石</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>单极磁矿（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/mono-mag-ore</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1512</GridIndex>
+      <UnlockKey>1206</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I单极磁石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>铁块</Name>
+      <ID>1101</ID>
+      <SID />
+      <name>铁块</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/iron-plate</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1201</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I铁块</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>铜块</Name>
+      <ID>1104</ID>
+      <SID />
+      <name>铜块</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/copper-plate</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1202</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I铜块</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>高纯硅块</Name>
+      <ID>1105</ID>
+      <SID />
+      <name>高纯硅块</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/silicium-single-crystal</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1205</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I高纯硅块</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>钛块</Name>
+      <ID>1106</ID>
+      <SID />
+      <name>钛块</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/titanium-plate</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1206</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I钛块</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>石材</Name>
+      <ID>1108</ID>
+      <SID />
+      <name>石材</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/stone-brick</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1203</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I石材</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>高能石墨</Name>
+      <ID>1109</ID>
+      <SID />
+      <name>高能石墨</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/graphite</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>6750000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0.5</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1204</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I高能石墨</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>钢材</Name>
+      <ID>1103</ID>
+      <SID />
+      <name>钢材</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/steel-plate</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1401</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I钢材</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>钛合金</Name>
+      <ID>1107</ID>
+      <SID />
+      <name>钛合金</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/titanium-alloy</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1306</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I钛合金</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>玻璃</Name>
+      <ID>1110</ID>
+      <SID />
+      <name>玻璃</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/glass</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1303</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I玻璃</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>钛化玻璃</Name>
+      <ID>1119</ID>
+      <SID />
+      <name>钛化玻璃</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/titan-glass</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1509</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I钛化玻璃</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>棱镜</Name>
+      <ID>1111</ID>
+      <SID />
+      <name>棱镜</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/prism</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1403</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I棱镜</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>金刚石</Name>
+      <ID>1112</ID>
+      <SID />
+      <name>金刚石</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/diamond</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>900000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>-0.5</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1304</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I金刚石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>晶格硅</Name>
+      <ID>1113</ID>
+      <SID />
+      <name>晶格硅</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/silicium-high-purity</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1305</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I晶格硅</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>齿轮</Name>
+      <ID>1201</ID>
+      <SID />
+      <name>齿轮</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/gear-wheel</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1501</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I齿轮</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>磁铁</Name>
+      <ID>1102</ID>
+      <SID />
+      <name>磁铁</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/magnet</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1301</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I磁铁</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>磁线圈</Name>
+      <ID>1202</ID>
+      <SID />
+      <name>磁线圈</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/magnetism-wire</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1302</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I磁线圈</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电动机</Name>
+      <ID>1203</ID>
+      <SID />
+      <name>电动机</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/electric-motor</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1404</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I电动机</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电磁涡轮</Name>
+      <ID>1204</ID>
+      <SID />
+      <name>电磁涡轮</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/mag-turbine</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1504</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I电磁涡轮</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>超级磁场环</Name>
+      <ID>1205</ID>
+      <SID />
+      <name>超级磁场环</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/hyper-magnetism-ring</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1604</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I超级磁场环</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>粒子容器</Name>
+      <ID>1206</ID>
+      <SID />
+      <name>粒子容器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/partical-capacitor</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1603</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I粒子容器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>奇异物质</Name>
+      <ID>1127</ID>
+      <SID />
+      <name>奇异物质</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/strange-matter-generator</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1408</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I奇异物质</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电路板</Name>
+      <ID>1301</ID>
+      <SID />
+      <name>电路板</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/circuit-board</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1402</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I电路板</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>处理器</Name>
+      <ID>1303</ID>
+      <SID />
+      <name>处理器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/processor</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1505</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I处理器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>量子芯片</Name>
+      <ID>1305</ID>
+      <SID />
+      <name>量子芯片</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/quantum-processor</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1610</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I量子芯片</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>微晶元件</Name>
+      <ID>1302</ID>
+      <SID />
+      <name>微晶元件</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/micro-component</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1405</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I微晶元件</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>位面过滤器</Name>
+      <ID>1304</ID>
+      <SID />
+      <name>位面过滤器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/plane-filter</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1609</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I位面过滤器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>粒子宽带</Name>
+      <ID>1402</ID>
+      <SID />
+      <name>粒子宽带</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/particle-wide-band</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1510</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I粒子宽带</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电浆激发器</Name>
+      <ID>1401</ID>
+      <SID />
+      <name>电浆激发器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/plasma-generator</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1502</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I电浆激发器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>光子合并器</Name>
+      <ID>1404</ID>
+      <SID />
+      <name>光子合并器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/photo-shifter</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1503</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I光子合并器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>太阳帆</Name>
+      <ID>1501</ID>
+      <SID />
+      <name>太阳帆</name>
+      <sid />
+      <Type>Product</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/solar-collector</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1708</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>36</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I太阳帆</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>水</Name>
+      <ID>1000</ID>
+      <SID />
+      <name>水</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>海洋</MiningFrom>
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>true</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/water</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1107</GridIndex>
+      <UnlockKey>2306</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>0</int>
+      </DescFields>
+      <Description>I水</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>原油</Name>
+      <ID>1007</ID>
+      <SID />
+      <name>原油</name>
+      <sid />
+      <Type>Resource</Type>
+      <MiningFrom>原油涌泉</MiningFrom>
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>true</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/oil</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>4050000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0.2</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1108</GridIndex>
+      <UnlockKey>2307</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I原油</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>精炼油</Name>
+      <ID>1114</ID>
+      <SID />
+      <name>精炼油</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>true</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/refined-oil</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>4500000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0.3</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1208</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I精炼油</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>硫酸</Name>
+      <ID>1116</ID>
+      <SID />
+      <name>硫酸</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom>硫酸海洋</MiningFrom>
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>true</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/sulphuric-acid</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1207</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I硫酸</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>氢</Name>
+      <ID>1120</ID>
+      <SID />
+      <name>氢</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom>气态巨星轨道</MiningFrom>
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>true</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/hydrogen</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>9000000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>1</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1109</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I氢</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>重氢</Name>
+      <ID>1121</ID>
+      <SID />
+      <name>重氢</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom>气态巨星轨道</MiningFrom>
+      <ProduceFrom>分馏塔</ProduceFrom>
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>true</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/deuterium</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>9000000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>1</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1110</GridIndex>
+      <UnlockKey>1120</UnlockKey>
+      <PreTechOverride>1134</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I重氢</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>反物质</Name>
+      <ID>1122</ID>
+      <SID />
+      <name>反物质</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/anti-matter</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>600000000</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1111</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>37</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I反物质</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>临界光子</Name>
+      <ID>1208</ID>
+      <SID />
+      <name>临界光子</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom>射线接收站</ProduceFrom>
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/photon-capacitor-full</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>1200000000</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1602</GridIndex>
+      <UnlockKey>1122</UnlockKey>
+      <PreTechOverride>1506</PreTechOverride>
+      <DescFields>
+        <int>37</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I临界光子</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>氢燃料棒</Name>
+      <ID>1801</ID>
+      <SID />
+      <name>氢燃料棒</name>
+      <sid />
+      <Type>Product</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>30</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/hydrogen-energy-fuel</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>54000000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>2</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1209</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I氢燃料棒</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>氘核燃料棒</Name>
+      <ID>1802</ID>
+      <SID />
+      <name>氘核燃料棒</name>
+      <sid />
+      <Type>Product</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/deuterium-energy-fuel</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>600000000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>3</ReactorInc>
+      <FuelType>2</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1210</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I氘核燃料棒</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>反物质燃料棒</Name>
+      <ID>1803</ID>
+      <SID />
+      <name>反物质燃料棒</name>
+      <sid />
+      <Type>Product</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/antimatter-energy-fuel</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>7200000000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>5</ReactorInc>
+      <FuelType>4</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1211</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I反物质燃料棒</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>塑料</Name>
+      <ID>1115</ID>
+      <SID />
+      <name>塑料</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/plastic</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1308</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I塑料</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>石墨烯</Name>
+      <ID>1123</ID>
+      <SID />
+      <name>石墨烯</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/graphene</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>96000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>-0.7</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1310</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I石墨烯</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>碳纳米管</Name>
+      <ID>1124</ID>
+      <SID />
+      <name>碳纳米管</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/nanotube</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>84000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>-0.8</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1410</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I碳纳米管</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>有机晶体</Name>
+      <ID>1117</ID>
+      <SID />
+      <name>有机晶体</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom>有机晶体矿（珍奇）</MiningFrom>
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/crystal-rubber</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>1800000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>-0.2</ReactorInc>
+      <FuelType>1</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1309</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>1</int>
+        <int>0</int>
+      </DescFields>
+      <Description>I有机晶体</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>钛晶石</Name>
+      <ID>1118</ID>
+      <SID />
+      <name>钛晶石</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/titan-crystal</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1409</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I钛晶石</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>卡西米尔晶体</Name>
+      <ID>1126</ID>
+      <SID />
+      <name>卡西米尔晶体</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/casimir-crystal</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1407</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I卡西米尔晶体</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>引力透镜</Name>
+      <ID>1209</ID>
+      <SID />
+      <name>引力透镜</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/gravity-lens</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1605</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I引力透镜</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>空间翘曲器</Name>
+      <ID>1210</ID>
+      <SID />
+      <name>空间翘曲器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/space-warper</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1608</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I空间翘曲器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>湮灭约束球</Name>
+      <ID>1403</ID>
+      <SID />
+      <name>湮灭约束球</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fusion-capacitor</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1508</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I湮灭约束球</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>推进器2</Name>
+      <ID>1405</ID>
+      <SID />
+      <name>推进器2</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fuel-thruster</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1311</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I推进器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>加力推进器</Name>
+      <ID>1406</ID>
+      <SID />
+      <name>加力推进器</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/ion-thruster</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1411</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I加力推进器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>物流运输机</Name>
+      <ID>5001</ID>
+      <SID />
+      <name>物流运输机</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/logistic-drone</IconPath>
+      <ModelIndex>47</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1511</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>25</int>
+        <int>27</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I物流运输机</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>星际物流运输船</Name>
+      <ID>5002</ID>
+      <SID />
+      <name>星际物流运输船</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/logistic-vessel</IconPath>
+      <ModelIndex>48</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>800</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1611</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>26</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I星际物流运输船</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>框架材料</Name>
+      <ID>1125</ID>
+      <SID />
+      <name>框架材料</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/frame-material</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1709</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I框架材料</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>戴森球组件</Name>
+      <ID>1502</ID>
+      <SID />
+      <name>戴森球组件</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/dyson-sphere-component</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1710</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I戴森球组件</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>小型运载火箭</Name>
+      <ID>1503</ID>
+      <SID />
+      <name>小型运载火箭</name>
+      <sid />
+      <Type>Product</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/rocket</IconPath>
+      <ModelIndex>75</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1711</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I小型运载火箭</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>地基</Name>
+      <ID>1131</ID>
+      <SID />
+      <name>地基</name>
+      <sid />
+      <Type>Component</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>1000</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/terrain-tool</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>901</BuildIndex>
+      <BuildMode>4</BuildMode>
+      <GridIndex>1601</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I地基</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>加速剂 Mk.I</Name>
+      <ID>1141</ID>
+      <SID />
+      <name>加速剂 Mk.I</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/accelerator-1</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>2</HpMax>
+      <Ability>25</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1406</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>28</int>
+        <int>29</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I加速剂 Mk.I</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>加速剂 Mk.II</Name>
+      <ID>1142</ID>
+      <SID />
+      <name>加速剂 Mk.II</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/accelerator-2</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>3</HpMax>
+      <Ability>50</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1506</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>28</int>
+        <int>29</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I加速剂 Mk.II</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>加速剂 Mk.III</Name>
+      <ID>1143</ID>
+      <SID />
+      <name>加速剂 Mk.III</name>
+      <sid />
+      <Type>Material</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/accelerator-3</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>5</HpMax>
+      <Ability>100</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1606</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>28</int>
+        <int>29</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I加速剂 Mk.III</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>低速传送带</Name>
+      <ID>2001</ID>
+      <SID />
+      <name>低速传送带</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>1</Grade>
+      <Upgrades>
+        <int>2001</int>
+        <int>2002</int>
+        <int>2003</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/belt-1</IconPath>
+      <ModelIndex>35</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>301</BuildIndex>
+      <BuildMode>2</BuildMode>
+      <GridIndex>2201</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>15</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I低速传送带</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>高速传送带</Name>
+      <ID>2002</ID>
+      <SID />
+      <name>高速传送带</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>2</Grade>
+      <Upgrades>
+        <int>2001</int>
+        <int>2002</int>
+        <int>2003</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/belt-2</IconPath>
+      <ModelIndex>36</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>302</BuildIndex>
+      <BuildMode>2</BuildMode>
+      <GridIndex>2202</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>15</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I高速传送带</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>极速传送带</Name>
+      <ID>2003</ID>
+      <SID />
+      <name>极速传送带</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>3</Grade>
+      <Upgrades>
+        <int>2001</int>
+        <int>2002</int>
+        <int>2003</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/belt-3</IconPath>
+      <ModelIndex>37</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>303</BuildIndex>
+      <BuildMode>2</BuildMode>
+      <GridIndex>2203</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>15</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I极速传送带</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>低速分拣器</Name>
+      <ID>2011</ID>
+      <SID />
+      <name>低速分拣器</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>1</Grade>
+      <Upgrades>
+        <int>2011</int>
+        <int>2012</int>
+        <int>2013</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/inserter-1</IconPath>
+      <ModelIndex>41</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>304</BuildIndex>
+      <BuildMode>3</BuildMode>
+      <GridIndex>2301</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>20</int>
+        <int>21</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I低速分拣器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>高速分拣器</Name>
+      <ID>2012</ID>
+      <SID />
+      <name>高速分拣器</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>2</Grade>
+      <Upgrades>
+        <int>2011</int>
+        <int>2012</int>
+        <int>2013</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/inserter-2</IconPath>
+      <ModelIndex>42</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>305</BuildIndex>
+      <BuildMode>3</BuildMode>
+      <GridIndex>2302</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>20</int>
+        <int>21</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I高速分拣器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>极速分拣器</Name>
+      <ID>2013</ID>
+      <SID />
+      <name>极速分拣器</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>3</Grade>
+      <Upgrades>
+        <int>2011</int>
+        <int>2012</int>
+        <int>2013</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/inserter-3</IconPath>
+      <ModelIndex>43</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>300</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>306</BuildIndex>
+      <BuildMode>3</BuildMode>
+      <GridIndex>2303</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>20</int>
+        <int>21</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I极速分拣器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>四向分流器</Name>
+      <ID>2020</ID>
+      <SID />
+      <name>四向分流器</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/splitter-4dir</IconPath>
+      <ModelIndex>38</ModelIndex>
+      <ModelCount>3</ModelCount>
+      <HpMax>500</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>307</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2204</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>16</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I四向分流器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>小型储物仓</Name>
+      <ID>2101</ID>
+      <SID />
+      <name>小型储物仓</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/storage-1</IconPath>
+      <ModelIndex>51</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>800</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>401</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2205</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>17</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I小型储物仓</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>大型储物仓</Name>
+      <ID>2102</ID>
+      <SID />
+      <name>大型储物仓</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/storage-2</IconPath>
+      <ModelIndex>52</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1600</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>402</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2206</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>17</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I大型储物仓</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>储液罐</Name>
+      <ID>2106</ID>
+      <SID />
+      <name>储液罐</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/storage-tank</IconPath>
+      <ModelIndex>121</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>403</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2207</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>30</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I储液罐</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>制造台 Mk.I</Name>
+      <ID>2303</ID>
+      <SID />
+      <name>制造台 Mk.I</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>1</Grade>
+      <Upgrades>
+        <int>2303</int>
+        <int>2304</int>
+        <int>2305</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/assembler-1</IconPath>
+      <ModelIndex>65</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>503</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2401</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I制造台 Mk.I</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>制造台 Mk.II</Name>
+      <ID>2304</ID>
+      <SID />
+      <name>制造台 Mk.II</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>2</Grade>
+      <Upgrades>
+        <int>2303</int>
+        <int>2304</int>
+        <int>2305</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/assembler-2</IconPath>
+      <ModelIndex>66</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>504</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2402</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I制造台 Mk.II</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>制造台 Mk.III</Name>
+      <ID>2305</ID>
+      <SID />
+      <name>制造台 Mk.III</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>3</Grade>
+      <Upgrades>
+        <int>2303</int>
+        <int>2304</int>
+        <int>2305</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/assembler-3</IconPath>
+      <ModelIndex>67</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>505</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2403</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I制造台 Mk.III</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电力感应塔</Name>
+      <ID>2201</ID>
+      <SID />
+      <name>电力感应塔</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>100</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/tesla-coil</IconPath>
+      <ModelIndex>44</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>500</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>101</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2101</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>13</int>
+        <int>14</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I电力感应塔</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>无线输电塔</Name>
+      <ID>2202</ID>
+      <SID />
+      <name>无线输电塔</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/charging-pole</IconPath>
+      <ModelIndex>71</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>600</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>102</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2102</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>13</int>
+        <int>14</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I无线输电塔</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>卫星配电站</Name>
+      <ID>2212</ID>
+      <SID />
+      <name>卫星配电站</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/orbital-substation</IconPath>
+      <ModelIndex>68</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>800</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>103</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2103</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>13</int>
+        <int>14</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I卫星配电站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>风力涡轮机</Name>
+      <ID>2203</ID>
+      <SID />
+      <name>风力涡轮机</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/wind-turbine</IconPath>
+      <ModelIndex>53</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>800</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>104</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2104</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>4</int>
+        <int>5</int>
+        <int>13</int>
+        <int>14</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I风力涡轮机</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>火力发电厂</Name>
+      <ID>2204</ID>
+      <SID />
+      <name>火力发电厂</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fuel-plant</IconPath>
+      <ModelIndex>54</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>2000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>105</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2105</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>4</int>
+        <int>5</int>
+        <int>6</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I火力发电厂</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>微型聚变发电站</Name>
+      <ID>2211</ID>
+      <SID />
+      <name>微型聚变发电站</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fusion-power-station</IconPath>
+      <ModelIndex>118</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>2000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>107</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2107</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>4</int>
+        <int>5</int>
+        <int>6</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I微型聚变发电站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>采矿机</Name>
+      <ID>2301</ID>
+      <SID />
+      <name>采矿机</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/mining-drill</IconPath>
+      <ModelIndex>57</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>201</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2304</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>18</int>
+        <int>19</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I采矿机</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电弧熔炉</Name>
+      <ID>2302</ID>
+      <SID />
+      <name>电弧熔炉</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>1</Grade>
+      <Upgrades>
+        <int>2302</int>
+        <int>2315</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/smelter</IconPath>
+      <ModelIndex>62</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>501</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2404</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I电弧熔炉</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>位面熔炉</Name>
+      <ID>2315</ID>
+      <SID />
+      <name>位面熔炉</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>50</StackSize>
+      <Grade>2</Grade>
+      <Upgrades>
+        <int>2302</int>
+        <int>2315</int>
+      </Upgrades>
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/smelter-2</IconPath>
+      <ModelIndex>194</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1500</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>502</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2405</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I位面熔炉</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>原油萃取站</Name>
+      <ID>2307</ID>
+      <SID />
+      <name>原油萃取站</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/oil-extractor</IconPath>
+      <ModelIndex>61</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>2000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>203</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2306</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>18</int>
+        <int>19</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I原油萃取站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>原油精炼厂</Name>
+      <ID>2308</ID>
+      <SID />
+      <name>原油精炼厂</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/oil-refinery</IconPath>
+      <ModelIndex>63</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1800</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>506</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2307</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I原油精炼厂</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>抽水站</Name>
+      <ID>2306</ID>
+      <SID />
+      <name>抽水站</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/water-pump</IconPath>
+      <ModelIndex>60</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>202</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2305</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>18</int>
+        <int>19</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I抽水站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>化工厂</Name>
+      <ID>2309</ID>
+      <SID />
+      <name>化工厂</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/chemical-plant</IconPath>
+      <ModelIndex>64</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>507</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2406</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I化工厂</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>分馏塔</Name>
+      <ID>2314</ID>
+      <SID />
+      <name>分馏塔</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fractionator</IconPath>
+      <ModelIndex>119</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>508</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2407</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I分馏塔</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>喷涂机</Name>
+      <ID>2313</ID>
+      <SID />
+      <name>喷涂机</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/spray-coater</IconPath>
+      <ModelIndex>120</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>800</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>510</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2408</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I喷涂机</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>太阳能板</Name>
+      <ID>2205</ID>
+      <SID />
+      <name>太阳能板</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/solar-panel</IconPath>
+      <ModelIndex>55</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>106</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2106</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>4</int>
+        <int>39</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I太阳能板</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>蓄电器</Name>
+      <ID>2206</ID>
+      <SID />
+      <name>蓄电器</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/accumulator</IconPath>
+      <ModelIndex>46</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>108</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2108</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>8</int>
+        <int>9</int>
+        <int>10</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I蓄电器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>蓄电器（满）</Name>
+      <ID>2207</ID>
+      <SID />
+      <name>蓄电器（满）</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom>能量枢纽</ProduceFrom>
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/accumulator-full</IconPath>
+      <ModelIndex>46</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>90000000</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>1</ReactorInc>
+      <FuelType>8</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2109</GridIndex>
+      <UnlockKey>2206</UnlockKey>
+      <PreTechOverride>1511</PreTechOverride>
+      <DescFields>
+        <int>2</int>
+        <int>3</int>
+        <int>31</int>
+        <int>8</int>
+        <int>9</int>
+        <int>10</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I蓄电器（满）</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电磁轨道弹射器</Name>
+      <ID>2311</ID>
+      <SID />
+      <name>电磁轨道弹射器</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/em-rail-ejector</IconPath>
+      <ModelIndex>72</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>2000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>801</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2211</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>34</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I电磁轨道弹射器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>射线接收站</Name>
+      <ID>2208</ID>
+      <SID />
+      <name>射线接收站</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/ray-receiver</IconPath>
+      <ModelIndex>73</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>3000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>802</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2111</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>4</int>
+        <int>39</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I射线接收站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>垂直发射井</Name>
+      <ID>2312</ID>
+      <SID />
+      <name>垂直发射井</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/vertical-launching-silo</IconPath>
+      <ModelIndex>74</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>8000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>803</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2310</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>35</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I垂直发射井</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>能量枢纽</Name>
+      <ID>2209</ID>
+      <SID />
+      <name>能量枢纽</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/energy-exchanger</IconPath>
+      <ModelIndex>45</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>3000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>604</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2110</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>8</int>
+        <int>9</int>
+        <int>10</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I能量枢纽</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>微型粒子对撞机</Name>
+      <ID>2310</ID>
+      <SID />
+      <name>微型粒子对撞机</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/hadron-collider</IconPath>
+      <ModelIndex>69</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>3000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>509</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2308</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I微型粒子对撞机</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>人造恒星</Name>
+      <ID>2210</ID>
+      <SID />
+      <name>人造恒星</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/fusion-reactor</IconPath>
+      <ModelIndex>56</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>2000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>804</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2112</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>4</int>
+        <int>5</int>
+        <int>6</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I人造恒星</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>物流运输站</Name>
+      <ID>2103</ID>
+      <SID />
+      <name>物流运输站</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/logistic-station</IconPath>
+      <ModelIndex>49</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>5000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>601</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2208</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>24</int>
+        <int>38</int>
+        <int>12</int>
+        <int>10</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I物流运输站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>星际物流运输站</Name>
+      <ID>2104</ID>
+      <SID />
+      <name>星际物流运输站</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/interstellar-logistic-station</IconPath>
+      <ModelIndex>50</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>8000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>602</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2209</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>24</int>
+        <int>38</int>
+        <int>12</int>
+        <int>10</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I星际物流运输站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>轨道采集器</Name>
+      <ID>2105</ID>
+      <SID />
+      <name>轨道采集器</name>
+      <sid />
+      <Type>Logistics</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>10</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>true</BuildInGas>
+      <IconPath>Icons/ItemRecipe/orbital-collector</IconPath>
+      <ModelIndex>117</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>8000</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>603</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2210</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>18</int>
+        <int>11</int>
+        <int>32</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I轨道采集器</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>矩阵研究站</Name>
+      <ID>2901</ID>
+      <SID />
+      <name>矩阵研究站</name>
+      <sid />
+      <Type>Production</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>20</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>true</IsEntity>
+      <CanBuild>true</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/lab</IconPath>
+      <ModelIndex>70</ModelIndex>
+      <ModelCount>1</ModelCount>
+      <HpMax>1200</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>701</BuildIndex>
+      <BuildMode>1</BuildMode>
+      <GridIndex>2309</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>22</int>
+        <int>33</int>
+        <int>11</int>
+        <int>12</int>
+        <int>1</int>
+      </DescFields>
+      <Description>I矩阵研究站</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>电磁矩阵</Name>
+      <ID>6001</ID>
+      <SID />
+      <name>电磁矩阵</name>
+      <sid />
+      <Type>Matrix</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/t-matrix</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1701</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I电磁矩阵</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>能量矩阵</Name>
+      <ID>6002</ID>
+      <SID />
+      <name>能量矩阵</name>
+      <sid />
+      <Type>Matrix</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/e-matrix</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1702</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I能量矩阵</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>结构矩阵</Name>
+      <ID>6003</ID>
+      <SID />
+      <name>结构矩阵</name>
+      <sid />
+      <Type>Matrix</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/c-matrix</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1703</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I结构矩阵</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>信息矩阵</Name>
+      <ID>6004</ID>
+      <SID />
+      <name>信息矩阵</name>
+      <sid />
+      <Type>Matrix</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/i-matrix</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1704</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I信息矩阵</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>引力矩阵</Name>
+      <ID>6005</ID>
+      <SID />
+      <name>引力矩阵</name>
+      <sid />
+      <Type>Matrix</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/g-matrix</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1705</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I引力矩阵</Description>
+      <index>0</index>
+    </ItemProto>
+    <ItemProto>
+      <Name>宇宙矩阵</Name>
+      <ID>6006</ID>
+      <SID />
+      <name>宇宙矩阵</name>
+      <sid />
+      <Type>Matrix</Type>
+      <MiningFrom />
+      <ProduceFrom />
+      <StackSize>200</StackSize>
+      <Grade>0</Grade>
+      <Upgrades />
+      <IsFluid>false</IsFluid>
+      <IsEntity>false</IsEntity>
+      <CanBuild>false</CanBuild>
+      <BuildInGas>false</BuildInGas>
+      <IconPath>Icons/ItemRecipe/u-matrix</IconPath>
+      <ModelIndex>0</ModelIndex>
+      <ModelCount>0</ModelCount>
+      <HpMax>1</HpMax>
+      <Ability>0</Ability>
+      <HeatValue>0</HeatValue>
+      <Potential>0</Potential>
+      <ReactorInc>0</ReactorInc>
+      <FuelType>0</FuelType>
+      <BuildIndex>0</BuildIndex>
+      <BuildMode>0</BuildMode>
+      <GridIndex>1706</GridIndex>
+      <UnlockKey>0</UnlockKey>
+      <PreTechOverride>0</PreTechOverride>
+      <DescFields>
+        <int>1</int>
+      </DescFields>
+      <Description>I宇宙矩阵</Description>
+      <index>0</index>
+    </ItemProto>
+  </dataArray>
+</ItemProtoSet>
